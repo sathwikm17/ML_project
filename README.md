@@ -1,4 +1,4 @@
-# MLinternship
+# Machine Learning 
 
 House price prediction using regression algorithms.
 
